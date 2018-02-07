@@ -22,4 +22,4 @@ if you want to use this product in your company, email to me(park363@daum.net), 
 
 screen capture
 <hr>
-<img src='https://github.com/mrbkdad/flight_ticker/blob/master/public/images/flight_board.PNG' width=600>
+<img src='https://github.com/mrbkdad/flight_ticker/blob/master/public/flight_board.PNG' width=600>
