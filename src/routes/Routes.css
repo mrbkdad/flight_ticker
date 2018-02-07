@@ -1,0 +1,16 @@
+.content-main {
+    margin-top: 0.05rem;
+    border: 1rem;
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: lightsteelblue;
+    width: 98%;
+}
+
+.content-div{
+    width: auto;
+    margin: auto;
+    text-align: left;
+}

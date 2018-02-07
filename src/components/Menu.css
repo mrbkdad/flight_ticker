@@ -1,0 +1,26 @@
+.menu {
+    background: darkgray;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.item {
+    text-align: center;
+    text-decoration: cornsilk;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    display: table-cell;
+    color: black;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.item:hover {
+    background: gray;
+}
+
+.item:active, .item.active {
+    background: lightgray;
+    color: darkgray;
+}
